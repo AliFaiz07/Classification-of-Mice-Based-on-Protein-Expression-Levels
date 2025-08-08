@@ -1,6 +1,6 @@
 # Classification-of-Mice-Based-on-Protein-Expression-Levels
 
-# Classification of Mice Based on Protein Expression Levels**
+# Classification of Mice Based on Protein Expression Levels
 
 ## Project Overview
 This project focuses on classifying mice based on their protein expression levels using machine learning models. By analyzing a multivariate dataset, the goal is to uncover patterns in protein expression and predict the category of mice with high accuracy.
